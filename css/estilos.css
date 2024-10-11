@@ -26,3 +26,8 @@ body {
     border: 3px solid rgb(0, 0, 0);
     
 }
+.macondo-regular {
+    font-family: "Macondo", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }  
